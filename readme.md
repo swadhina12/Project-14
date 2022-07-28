@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://projectsaas.netlify.app/)
+[LIVE-LINK](https://projectdance.netlify.app/)
 
 - [x] use Absoulute and relative position
 - [x] Learned to use text-stroke-width 
