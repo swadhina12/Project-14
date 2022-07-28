@@ -14,4 +14,4 @@
 - [x] learn about how to draw line ,circle,dotted line
 
 
-#### The duration of the project:4 hour
+#### The duration of the project:3 hour
